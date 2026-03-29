@@ -8,8 +8,10 @@ restaurant_brands
 outlets
 	locations
 	restaurant_id
-	outlet_owner
-	contect_number 
-	lat_long //comma seperated
+	outlet_owner // outlet owner is abc 
+	contect_number  // outlet contact number 
+	lat_long //comma seperated one column
+	open_time
+	close_time
 	 
 	
