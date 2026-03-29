@@ -43,14 +43,14 @@ Let's do a quick rapid fire to lock this in. Just tell me the pattern — one wo
 		if idx> n ==0
 
 
-
+int minStep=Integer.MAX_VALUE;
 int fn(int[] arr,int idx){
 	if(idx==arr.lenghth){
-	
+		minStep=Math.min(minStep,step);
 	}
 	 
 	 int nextIndex=arr[idx];
 	 for(int i=idx;i<nextIndex;i++){
-		 step=fn(arr,idx+i);
+		 step=fn(arr,idx+i)+1;
 	 }
 }
