@@ -44,4 +44,13 @@ Let's do a quick rapid fire to lock this in. Just tell me the pattern — one wo
 
 
 
-int fn(int[] arr,int )
+int fn(int[] arr,int idx){
+	if(idx==arr.lenghth){
+	
+	}
+	 
+	 int nextIndex=arr[idx];
+	 for(int i=idx;i<nextIndex;i++){
+		 step=fn(arr,idx+i);
+	 }
+}
