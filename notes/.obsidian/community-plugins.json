@@ -3,5 +3,6 @@
   "code-emitter",
   "execute-code",
   "obsidian-excalidraw-plugin",
-  "githobs"
+  "githobs",
+  "vscode-editor"
 ]

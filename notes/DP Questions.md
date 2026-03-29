@@ -42,3 +42,6 @@ Let's do a quick rapid fire to lock this in. Just tell me the pattern — one wo
 **Q3.** What are the base cases?
 		if idx> n ==0
 
+
+
+int fn(int[] arr,int )
