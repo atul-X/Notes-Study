@@ -43,14 +43,18 @@ Let's do a quick rapid fire to lock this in. Just tell me the pattern — one wo
 		if idx> n ==0
 
 
-int minStep=Integer.MAX_VALUE;
-int fn(int[] arr,int idx){
-	if(idx==arr.lenghth){
-		minStep=Math.min(minStep,step);
-	}
-	 
-	 int nextIndex=arr[idx];
-	 for(int i=idx;i<nextIndex;i++){
-		 step=fn(arr,idx+i)+1;
-	 }
+int fn(int[] nums, int idx) {
+    if(idx == nums.length - 1) return 0; // already at end
+    if(idx > nums.length - 1)  return Integer.MAX_VALUE;; // overshot, invalid
+    
+    int minJumps = Integer.MAX_VALUE;
+    
+    for(int jump = 1; jump <= nums[idx]; jump++) {
+        int result = fn(nums, idx + jump);
+        if(result != Integer.MAX_VALUE) {
+            minJumps = Math.min(minJumps, result + 1);
+        }
+    }
+    
+    return minJumps;
 }
