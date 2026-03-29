@@ -35,12 +35,10 @@ Let's do a quick rapid fire to lock this in. Just tell me the pattern — one wo
 **Your 3 questions. No code. Just thinking:**
 
 **Q1.** Is this recursion/DP? What's the choice at each index?
-	minimum step required to reach any index.
+	minimum step required to reach any index. take this or not;
 
 **Q2.** Define `dp[i]` in one precise sentence. What does it represent?
 		dp[i] mean step required at ith index.
 **Q3.** What are the base cases?
-		if(idx>n){
-			 
-		}
+		if idx> n ==0
 
