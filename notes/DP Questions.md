@@ -41,20 +41,23 @@ Let's do a quick rapid fire to lock this in. Just tell me the pattern — one wo
 		dp[i] mean step required at ith index.
 **Q3.** What are the base cases?
 		if idx> n ==0
-
+int[] dp = new int[nums.length]; 
+Arrays.fill(dp, -1);
 
 int fn(int[] nums, int idx) {
     if(idx == nums.length - 1) return 0; // already at end
     if(idx > nums.length - 1)  return Integer.MAX_VALUE;; // overshot, invalid
     
     int minJumps = Integer.MAX_VALUE;
-    
+	if(dp[idx]!=-1){
+		return dp[idx];
+	}
     for(int jump = 1; jump <= nums[idx]; jump++) {
         int result = fn(nums, idx + jump);
         if(result != Integer.MAX_VALUE) {
             minJumps = Math.min(minJumps, result + 1);
         }
     }
-    
+	    dp[idx]=minJumps;
     return minJumps;
 }
