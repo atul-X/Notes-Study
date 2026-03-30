@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DP Questions.md",
+                "file": "Dynamic Programming — Study Notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DP Questions"
+              "title": "Dynamic Programming — Study Notes"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DP Questions.md",
+                "file": "Dynamic Programming — Study Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DP Questions"
+              "title": "Dynamic Programming — Study Notes"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍕 Food Delivery App — Schema Design.md",
+                "file": "Dynamic Programming — Study Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🍕 Food Delivery App — Schema Design"
+              "title": "Dynamic Programming — Study Notes"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍕 Food Delivery App — Schema Design.md",
+                "file": "Dynamic Programming — Study Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🍕 Food Delivery App — Schema Design"
+              "title": "Backlinks for Dynamic Programming — Study Notes"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍕 Food Delivery App — Schema Design.md",
+                "file": "Dynamic Programming — Study Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🍕 Food Delivery App — Schema Design"
+              "title": "Outgoing links from Dynamic Programming — Study Notes"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍕 Food Delivery App — Schema Design.md",
+                "file": "Dynamic Programming — Study Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🍕 Food Delivery App — Schema Design"
+              "title": "Outline of Dynamic Programming — Study Notes"
             }
           }
         ],
@@ -232,9 +232,9 @@
   },
   "active": "76208cb8598e16bd",
   "lastOpenFiles": [
-    "DP Questions.md",
-    "HLD Study Notes.md",
     "🍕 Food Delivery App — Schema Design.md",
+    "Dynamic Programming — Study Notes.md",
+    "HLD Study Notes.md",
     "Untitled.base",
     "My code file.ts"
   ]
