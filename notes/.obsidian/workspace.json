@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍕 Food Delivery App — Schema Design.md",
+                "file": "HLD/🍕 Food Delivery App — Schema Design.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "whatsapp-message-flow.excalidraw"
+                "file": "HLD/whatsapp-message-flow.excalidraw"
               },
               "icon": "excalidraw-icon",
               "title": "whatsapp-message-flow"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "whatsapp-message-flow.excalidraw",
+                "file": "HLD/whatsapp-message-flow.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "whatsapp-message-flow.excalidraw",
+                "file": "HLD/whatsapp-message-flow.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "whatsapp-message-flow.excalidraw",
+                "file": "HLD/whatsapp-message-flow.excalidraw",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,18 +228,26 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "2f9ce7eebe2e0830",
+  "active": "76208cb8598e16bd",
   "lastOpenFiles": [
+    "HLD/postgres_deep_dive_obsidian.md",
+    "HLD/Cassandra.excalidraw",
+    "Untitled.md",
+    "HLD/Tweeter.excalidraw",
+    "HLD/Redis.excalidraw",
+    "HLD/README.md",
+    "HLD/Postgres.excalidraw",
+    "HLD/MonogoDb.excalidraw",
+    "HLD/GoogleDoc.excalidraw",
+    "HLD/DynamoDb.excalidraw",
+    "HLD/Cassandra.png",
+    "HLD/cassandra_linkedin_article.md",
+    "HLD",
+    "HLD/whatsapp-message-flow.excalidraw",
     "Dynamic Programming — Study Notes.md",
-    "whatsapp-message-flow.excalidraw",
-    "whatsapp-architecture.excalidraw",
-    "url-shortener-architecture.excalidraw",
-    "Untitled",
-    "postgres_deep_dive_obsidian.md",
+    "HLD/whatsapp-architecture.excalidraw",
     "PostgreSQL Deep Dive — Schema Design & Normalization.md",
-    "🍕 Food Delivery App — Schema Design.md",
-    "HLD Study Notes.md",
-    "Untitled.base",
-    "My code file.ts"
+    "HLD/🍕 Food Delivery App — Schema Design.md",
+    "HLD/HLD Study Notes.md"
   ]
 }
