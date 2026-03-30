@@ -55,10 +55,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "HLD/whatsapp-message-flow.excalidraw"
+                "file": "HLD/GoogleDoc.excalidraw"
               },
               "icon": "excalidraw-icon",
-              "title": "whatsapp-message-flow"
+              "title": "GoogleDoc"
             }
           }
         ],
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HLD/whatsapp-message-flow.excalidraw",
+                "file": "HLD/GoogleDoc.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for whatsapp-message-flow"
+              "title": "Backlinks for GoogleDoc"
             }
           },
           {
@@ -154,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HLD/whatsapp-message-flow.excalidraw",
+                "file": "HLD/GoogleDoc.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from whatsapp-message-flow"
+              "title": "Outgoing links from GoogleDoc"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HLD/whatsapp-message-flow.excalidraw",
+                "file": "HLD/GoogleDoc.excalidraw",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of whatsapp-message-flow"
+              "title": "Outline of GoogleDoc"
             }
           }
         ],
@@ -230,6 +230,9 @@
   },
   "active": "76208cb8598e16bd",
   "lastOpenFiles": [
+    "HLD/cassandra_linkedin_article.md",
+    "HLD/Cassandra.png",
+    "HLD/whatsapp-message-flow.excalidraw",
     "HLD/postgres_deep_dive_obsidian.md",
     "HLD/Cassandra.excalidraw",
     "Untitled.md",
@@ -240,10 +243,7 @@
     "HLD/MonogoDb.excalidraw",
     "HLD/GoogleDoc.excalidraw",
     "HLD/DynamoDb.excalidraw",
-    "HLD/Cassandra.png",
-    "HLD/cassandra_linkedin_article.md",
     "HLD",
-    "HLD/whatsapp-message-flow.excalidraw",
     "Dynamic Programming — Study Notes.md",
     "HLD/whatsapp-architecture.excalidraw",
     "PostgreSQL Deep Dive — Schema Design & Normalization.md",
